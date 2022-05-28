@@ -1,0 +1,22 @@
+IQR   atau z score kontekstual
+iqr terlalu strik
+
+
+LOG Transformation : skew tinggi
+standardisasi agar std normsl
+box cox transformation library stats libraries scypy
+
+kondisi ada 2 dalam mengolah data 
+
+ideal : Bisa dijelaskan secara kaidah ilmiah
+ideal industri harus dbisa dijelask=kan setiap keputusan yg diambil
+ideal akademik bisa diidealkan dgn oversampling
+
+dan 
+
+kenyataan
+
+
+Feature selection : membuang redundan value [ pendapatan bulanan dan pendapatan tahunan itu sama] paling gampang ambil data kurelation  -0.8 < Feature < 0.8
+
+Feature Extraction : 
