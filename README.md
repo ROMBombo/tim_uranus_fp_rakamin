@@ -1,7 +1,11 @@
 # tim_uranus_fp_rakamin
 
-Pada Stage 1 tim kami melakukan EDA dan mencari business insight pada data. Pada Stage ini menjadi penentu untuk data prepoccesing pada Stage 2 dengan demikian dari hasil EDA ini kami mencatat poin-poin penting yang akan dilakukan saat data preproccesing
+Repository ini berisi Final Project kelompok 1 Rakamin Academy , Uranus.
+Pengerjaan final project ini mengambil dataset 'Online Shoppers Purchasing Intention.csv'
 
-Pada Stage 2 tim kami melakukan data preproccesing sesuai dengan catatan yang kami dapat saat melakukan EDA pada Stage 1. Lalu kami pun melakukan feature engineering agar data kami siap untuk dilakukan modeling
+Hal yang telah dilakukan :
+- EDA (Exploratory Data Analysis) yang meliputi Descriptive, Univariate, multivariate analysis, dan penarikan data insight
+- Feature Transformation yang meliputi Handling duplicate data, handling outlier, feature transformation, encoding, handling imbalance, feature selectioan dan extraction
+- Modelling and Evaluation yang meliputi Split data train and test (SMOTE), modelling, evaluation, pemilihan best-fit, penentuan metrix.
 
-Pada Stage 3 tim kami melakukan modeling dengan mengeksplor berbagai macam algoritma dan metode guna mencari algoritma yang cocok untuk data yang kami gunakan. Tim kami pun melakukan hyperparameter tuning agar model yang dihasilkan bisa sebaik mungkin. Selain itu kami mengoutputkan feature importance lalu melakukan iterasi model guna mencari model terbaik
+Thankyou for visit, and enjoy!
