@@ -1,4 +1,4 @@
-# tim_uranus_fp_rakamin
+# Online Shoppers Purchasing Intention
 
 Repository ini berisi Final Project kelompok 1 Rakamin Academy , Uranus.
 Pengerjaan final project ini mengambil dataset 'Online Shoppers Purchasing Intention.csv'
